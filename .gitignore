@@ -68,8 +68,3 @@ docker-compose*.yml
 .terraform/
 .terraform.lock.hcl
     
-# Fitness platform specific
-uploads/
-user-data/
-workout-videos/
-profile-images/
